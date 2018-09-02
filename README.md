@@ -2,7 +2,7 @@
 
 `transfer-sh` is a cli tool for uploading files to [transfer.sh]("https://transfer.sh").
 
-**Disclaimer: I am in no way affiliated with [transfer.sh]("https://transfer.sh").
+**Disclaimer: I am in no way affiliated with [transfer.sh]("https://transfer.sh").**
 
 Run the command to install:
 
