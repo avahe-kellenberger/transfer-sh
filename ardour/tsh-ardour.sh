@@ -7,6 +7,6 @@ do
     full_path="$full_path"" ""$i"
 done
 
-output="$(printf "%s\r\n" "$(tsh ${full_path})")"
+output="$(printf "%s\n" "$(tsh "$full_path")")"
 
 xdg-open "$output"
