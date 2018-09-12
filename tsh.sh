@@ -9,5 +9,6 @@ trim() {
 }
 
 file=$(trim "$1")
-file_name="${file##*/}"
+file_name=${file##*/}
+file_name=${file_name// /_}
 printf "%s\r\n" "$(curl --upload-file "${file}" "https://transfer.sh/${file_name}")"
