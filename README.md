@@ -1,7 +1,5 @@
 # transfer-sh
 
-## NOTICE: https://transfer.sh/ is planning to shut down November 31st. See their site for details.
-
 `transfer-sh` is a cli tool for uploading files to [transfer.sh]("https://transfer.sh").
 
 **Disclaimer: I am in no way affiliated with [transfer.sh]("https://transfer.sh").**
